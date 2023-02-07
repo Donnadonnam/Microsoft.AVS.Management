@@ -6,9 +6,8 @@
 # Generated on: 02/02/2021
 #
 
-@{
-
-    # Script module or binary module file associated with this manifest.
+# 
+# Script module or binary module file associated with this manifest.
     RootModule        = 'Microsoft.AVS.Management.psm1'
 
     # Version number of this module.
@@ -136,5 +135,5 @@
     # Default prefix for commands exported from this module. Override the default prefix using Import-Module -Prefix.
     # DefaultCommandPrefix = ''
 
-}
-
+# 
+# 
